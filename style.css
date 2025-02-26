@@ -1,0 +1,40 @@
+.header {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    justify-content: center;
+    display: flex;
+}
+body{
+    background-color: rgba(94, 150, 200, 0.51);
+
+    
+}
+#login{
+    justify-content: center;
+    
+}
+input{
+    border-radius: 4px;
+    border: 2px solid black;
+
+}
+button{
+    border-radius: 4px;
+    border: 2px solid black;
+    background-color: rgb(255, 255, 255);
+}
+#login{
+    width: 200px;
+    height: 200px;
+    border-radius: 3px;
+    background-color: rgba(255, 255, 255, 0.634);
+    border-radius: 12px;
+    border-bottom: 5px solid  black;
+    padding: 50px;
+    margin-left: 500px;
+    
+    
+}
+#login:hover{
+    box-shadow: 4px 2px 2px 5px rgb(20, 15, 15);
+}
